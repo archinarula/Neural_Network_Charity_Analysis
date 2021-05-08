@@ -27,9 +27,9 @@ This challenge consists of three technical analysis deliverables and a written r
 
 The results are displayed on Jupiter notebooks links 
 
-![AlphabetSoupCharity.ipynb] and (https://github.com/archinarula/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.ipynb) 
-![AlphabetSoupCharity_Optimzation.ipynb](https://github.com/archinarula/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimzation.ipynb) 
-![AlphabetSoupCharity.h5](https://github.com/archinarula/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.h5)
+![AlphabetSoupCharity.ipynb](https://github.com/archinarula/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.ipynb) and 
+![AlphabetSoupCharity_Optimzation.ipynb](https://github.com/archinarula/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimzation.ipynb) and 
+![AlphabetSoupCharity.h5](https://github.com/archinarula/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.h5) and
 ![AlphabetSoupCharity_Optimization.h5](https://github.com/archinarula/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization.h5)
 
 ### Key findings and highlights of this analysis is:
