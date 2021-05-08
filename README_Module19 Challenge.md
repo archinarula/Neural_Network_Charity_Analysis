@@ -11,7 +11,7 @@ We used the following methods for the analysis:
 
 
 Data Source: 
-![charity_data.csv] (https://github.com/archinarula/Neural_Network_Charity_Analysis/blob/main/charity_data.csv
+charity_data.csv(https://github.com/archinarula/Neural_Network_Charity_Analysis/blob/main/charity_data.csv
 
 ## Deliverable: 
 This challenge consists of three technical analysis deliverables and a written report.
@@ -27,7 +27,10 @@ This challenge consists of three technical analysis deliverables and a written r
 
 The results are displayed on Jupiter notebooks links 
 
-![AlphabetSoupCharity.ipynb](https://github.com/archinarula/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.ipynb) 
+![AlphabetSoupCharity.ipynb] and (https://github.com/archinarula/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.ipynb) 
+![AlphabetSoupCharity_Optimzation.ipynb](https://github.com/archinarula/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimzation.ipynb) 
+![AlphabetSoupCharity.h5](https://github.com/archinarula/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.h5)
+![AlphabetSoupCharity_Optimization.h5](https://github.com/archinarula/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization.h5)
 
 ### Key findings and highlights of this analysis is:
 
